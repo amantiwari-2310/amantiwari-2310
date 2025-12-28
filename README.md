@@ -3,10 +3,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amantiwari-2310&label=Profile views&color=0e75b6&style=flat" alt="amantiwari-2310" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amantiwari-2310" alt="amantiwari-2310" /></a> </p>
-
 - 🔭 I'm currently working on **Java & AI Productivity tools, Mern **
 
 - 🌱 I'm currently learning **AI /ML and core new technologies related to fulll stack development**
